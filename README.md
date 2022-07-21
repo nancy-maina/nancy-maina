@@ -59,13 +59,18 @@ Robotics Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   
 </div>
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nancy-maina&theme=dark-smoky)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancy-maina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-
-
-
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
