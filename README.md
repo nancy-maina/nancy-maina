@@ -29,7 +29,7 @@ Robotics Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Am currently learning Machine Learning and Artificial Intelligence.
 
-- :zap: Exploring Data Analysis and Data Annotation.
+- :zap: Exploring Data Analysis and Data Annotation and Data Visualization.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nancy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nancy-maina-083594182/)
 
